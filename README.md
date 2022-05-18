@@ -1,4 +1,4 @@
-## CloverHealth（四叶草健康，仿丁香健康）
+## CloverHealth（四叶草健康，仿丁香医生）
 ## 技术点
 1. 组件拆分
 2. 网络请求 axios
